@@ -49,7 +49,7 @@ function EnvioForm() {
     <div className='voxContact' style={{background: "rgba(233, 21, 230, 0.742)"}}>  
       <form 
         id="miFormulario" 
-        action="https://formsubmit.co/2deef16274ca80a0e1ceac41d64b8913" 
+        action="https://formsubmit.co/cc139e5f63a9cf730f08c3904701a03e" 
         method="POST"
         onSubmit={handleSubmit}
       >
