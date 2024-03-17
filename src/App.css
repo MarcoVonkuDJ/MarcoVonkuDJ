@@ -300,7 +300,19 @@ margin: 0 auto;
     align-items: center; 
   }
 
- 
+  .voxContact{
+    margin-top: 1%;
+    /* border: 1px solid yellow; */
+    background-color: rgba(225, 125, 10, 0.468);
+    /* background-color: rgba(233, 21, 230, 0.742); */
+    width: 80%;
+    height: 500px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: white;
+    padding: 2%;
+    border-radius: 5px;
+  }
 
 }
 
