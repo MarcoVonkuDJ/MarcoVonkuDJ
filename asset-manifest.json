@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/MarcoVonkuDJ/static/css/main.9395fa79.css",
-    "main.js": "/MarcoVonkuDJ/static/js/main.2124df4d.js",
+    "main.js": "/MarcoVonkuDJ/static/js/main.835073c9.js",
     "static/js/508.cc363a9d.chunk.js": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js",
     "static/js/592.cef72a76.chunk.js": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js",
-    "static/media/elcirco.mp3": "/MarcoVonkuDJ/static/media/elcirco.3b48326cf4c097cfd045.mp3",
+    "static/media/Ej3000.mp3": "/MarcoVonkuDJ/static/media/Ej3000.50be0ee92a9c7bcf1f49.mp3",
     "static/media/Rizzla.mp3": "/MarcoVonkuDJ/static/media/Rizzla.de920b371a865078b49d.mp3",
     "static/media/MuroUno.jpg": "/MarcoVonkuDJ/static/media/MuroUno.08cb96be0af4060c631b.jpg",
     "static/media/foto1.jpg": "/MarcoVonkuDJ/static/media/foto1.8ba7d34f185836d92c4a.jpg",
@@ -26,12 +26,12 @@
     "static/media/LogoMarco4.jpg": "/MarcoVonkuDJ/static/media/LogoMarco4.0208de42678ca53b23fd.jpg",
     "index.html": "/MarcoVonkuDJ/index.html",
     "main.9395fa79.css.map": "/MarcoVonkuDJ/static/css/main.9395fa79.css.map",
-    "main.2124df4d.js.map": "/MarcoVonkuDJ/static/js/main.2124df4d.js.map",
+    "main.835073c9.js.map": "/MarcoVonkuDJ/static/js/main.835073c9.js.map",
     "508.cc363a9d.chunk.js.map": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js.map",
     "592.cef72a76.chunk.js.map": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9395fa79.css",
-    "static/js/main.2124df4d.js"
+    "static/js/main.835073c9.js"
   ]
 }
