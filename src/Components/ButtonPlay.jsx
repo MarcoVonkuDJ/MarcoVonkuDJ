@@ -1,13 +1,13 @@
 import React, { useState, useEffect} from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 import useSound from 'use-sound';
-import elcirco from '../aud/elcirco.mp3';
+import Ej3000 from '../aud/Ej3000.mp3';
 import Rizzla from '../aud/Rizzla.mp3';
 
 function ButtonPlay(props) {
   let tema;
   if (props.title === 1) {
-    tema = elcirco;
+    tema = Ej3000;
   } else if (props.title === 2) {
     tema = Rizzla;
   }
