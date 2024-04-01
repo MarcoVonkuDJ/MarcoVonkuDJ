@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MarcoVonkuDJ/static/css/main.9395fa79.css",
-    "main.js": "/MarcoVonkuDJ/static/js/main.835073c9.js",
+    "main.css": "/MarcoVonkuDJ/static/css/main.3b6b1e8c.css",
+    "main.js": "/MarcoVonkuDJ/static/js/main.9d30e547.js",
     "static/js/508.cc363a9d.chunk.js": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js",
     "static/js/592.cef72a76.chunk.js": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js",
     "static/media/Ej3000.mp3": "/MarcoVonkuDJ/static/media/Ej3000.50be0ee92a9c7bcf1f49.mp3",
@@ -19,19 +19,21 @@
     "static/media/kahlo.jpg": "/MarcoVonkuDJ/static/media/kahlo.a93416f39ffb9a1871bc.jpg",
     "static/media/LogoMarco6.png": "/MarcoVonkuDJ/static/media/LogoMarco6.8a29aaad1da42463fabd.png",
     "static/media/pecados.jpg": "/MarcoVonkuDJ/static/media/pecados.c3d2bf2ae9a56ae27a6a.jpg",
+    "static/media/gutierrez.jpg": "/MarcoVonkuDJ/static/media/gutierrez.be9a4edd3f2d1dad94fc.jpg",
     "static/media/elbarcito.jpg": "/MarcoVonkuDJ/static/media/elbarcito.600c646a759807086841.jpg",
     "static/media/la boriqua.jpg": "/MarcoVonkuDJ/static/media/la boriqua.733b7ae37e6142a4e764.jpg",
+    "static/media/Fermina.jpg": "/MarcoVonkuDJ/static/media/Fermina.40a87fc8d6d59d3a0666.jpg",
     "static/media/MarcoLogo3.jpg": "/MarcoVonkuDJ/static/media/MarcoLogo3.00659f148cf51faf8629.jpg",
     "static/media/artemisa.jpg": "/MarcoVonkuDJ/static/media/artemisa.e2551f028e5b6a94e005.jpg",
     "static/media/LogoMarco4.jpg": "/MarcoVonkuDJ/static/media/LogoMarco4.0208de42678ca53b23fd.jpg",
     "index.html": "/MarcoVonkuDJ/index.html",
-    "main.9395fa79.css.map": "/MarcoVonkuDJ/static/css/main.9395fa79.css.map",
-    "main.835073c9.js.map": "/MarcoVonkuDJ/static/js/main.835073c9.js.map",
+    "main.3b6b1e8c.css.map": "/MarcoVonkuDJ/static/css/main.3b6b1e8c.css.map",
+    "main.9d30e547.js.map": "/MarcoVonkuDJ/static/js/main.9d30e547.js.map",
     "508.cc363a9d.chunk.js.map": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js.map",
     "592.cef72a76.chunk.js.map": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9395fa79.css",
-    "static/js/main.835073c9.js"
+    "static/css/main.3b6b1e8c.css",
+    "static/js/main.9d30e547.js"
   ]
 }
