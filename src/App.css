@@ -140,7 +140,7 @@ table {
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%; 
-  height: 100vh; 
+  /* height: 100vh;  */
   background-Size: cover;
   justify-content: center; 
   align-content: stretch;

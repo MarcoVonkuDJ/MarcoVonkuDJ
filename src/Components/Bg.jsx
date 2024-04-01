@@ -13,6 +13,8 @@ import EnvioForm from "./FormSubmit.jsx";
 import artemisa from "../img-fondo/artemisa.jpg";
 import TextBody from "./TextBody.jsx";
 import Contact from "./Contact.jsx";
+import Fermina from "../img-fondo/Fermina.jpg";
+import gutierrez from "../img-fondo/gutierrez.jpg";
 
 
 function BackGround(props) {
@@ -28,6 +30,14 @@ function BackGround(props) {
   if (props.fondo==="empresas") {
     return (
       <div className="bgUno">
+
+        <div className="contentCorp">
+          <img src={gutierrez} alt="Logo de gutierrez bar, Mendoza" />
+        </div>
+
+        <div className="contentCorp">
+          <img src={Fermina} alt="Logo Fermina eventos, Mendoza" />
+        </div>
 
         <div className="contentCorp">
           <img src={kahlo} alt="Logo Kahlo Disco Lavalle, Mendoza" />
