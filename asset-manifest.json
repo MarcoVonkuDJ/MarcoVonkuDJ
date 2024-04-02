@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MarcoVonkuDJ/static/css/main.3b6b1e8c.css",
+    "main.css": "/MarcoVonkuDJ/static/css/main.26df4a0e.css",
     "main.js": "/MarcoVonkuDJ/static/js/main.9d30e547.js",
     "static/js/508.cc363a9d.chunk.js": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js",
     "static/js/592.cef72a76.chunk.js": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js",
@@ -27,13 +27,13 @@
     "static/media/artemisa.jpg": "/MarcoVonkuDJ/static/media/artemisa.e2551f028e5b6a94e005.jpg",
     "static/media/LogoMarco4.jpg": "/MarcoVonkuDJ/static/media/LogoMarco4.0208de42678ca53b23fd.jpg",
     "index.html": "/MarcoVonkuDJ/index.html",
-    "main.3b6b1e8c.css.map": "/MarcoVonkuDJ/static/css/main.3b6b1e8c.css.map",
+    "main.26df4a0e.css.map": "/MarcoVonkuDJ/static/css/main.26df4a0e.css.map",
     "main.9d30e547.js.map": "/MarcoVonkuDJ/static/js/main.9d30e547.js.map",
     "508.cc363a9d.chunk.js.map": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js.map",
     "592.cef72a76.chunk.js.map": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b6b1e8c.css",
+    "static/css/main.26df4a0e.css",
     "static/js/main.9d30e547.js"
   ]
 }
