@@ -15,7 +15,7 @@ import TextBody from "./TextBody.jsx";
 import Contact from "./Contact.jsx";
 import Fermina from "../img-fondo/Fermina.jpg";
 import gutierrez from "../img-fondo/gutierrez.jpg";
-
+import malamania from "../img-fondo/malamania.jpg";
 
 function BackGround(props) {
 
@@ -41,6 +41,10 @@ function BackGround(props) {
 
         <div className="contentCorp">
           <img src={kahlo} alt="Logo Kahlo Disco Lavalle, Mendoza" />
+        </div>
+
+        <div className="contentCorp">
+          <img src={malamania} alt="Logo de malamaña" />
         </div>
 
         <div className="contentCorp">

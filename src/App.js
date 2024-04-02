@@ -11,6 +11,7 @@ import marco_parqueUno from './img-fondo/marco_parqueUno.jpg';
 import Footer from "./Components/Footer.jsx";
 import Carrusel from "./Components/Carrusel";
 import NavBasic1 from "./Components/NavCasic1.jsx";
+import Fotos from "./Components/Fotos.jsx";
 
 function App() {
 
@@ -50,9 +51,13 @@ function App() {
       <BackGround 
         fondo={marco_parqueUno}
         val={4} />
-      <Separador title="GALERIA DE FOTOS" id="galeria/3.4" />
+      <Separador title="CARRUSEL DE FOTOS" id="galeria/3.4" />
       <div className="clearfix"></div>
       <Carrusel />
+      <Separador title="GALERIA DE FOTOS" id="galeria/3.4" />
+      <div className="clearfix"></div>
+      <Fotos />
+      {/* <div className="clearfix"></div> */}
       <Separador title="EMPRESAS QUE ENTIENDEN" id="empresas/3.5" />
       <div className="clearfix"></div>
       <BackGround fondo={"empresas"} />

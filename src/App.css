@@ -236,13 +236,47 @@ form button{
 }
 
 .contentCorp {
-    /* border: 1px solid yellow; */
+    
     margin: 2%;
     width: 250px; 
     height: 250px;
     line-height: 280px;    
     text-align: center;
-    /* flex-basis: 20%; */
+    /* border: 2px solid yellow; */
+
+  }
+
+  .contentCorpDos {
+    
+    margin: 2%;
+    width: 250px; 
+    height: 440px;
+    line-height: 280px;    
+    text-align: center;
+    /* border: 1px solid yellow; */
+
+  }
+
+  .contentCorpTres {
+    
+    margin: 2%;
+    width: 250px; 
+    height: 335px;
+    line-height: 280px;    
+    text-align: center;
+    /* border: 1px solid yellow; */
+
+  }
+
+  .contentCorpCuatro {
+    
+    margin: 2%;
+    width: 250px; 
+    height: 375px;
+    line-height: 280px;    
+    text-align: center;
+    /* border: 1px solid yellow; */
+
   }
 
 img{
