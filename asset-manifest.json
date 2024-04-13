@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MarcoVonkuDJ/static/css/main.ad988af7.css",
-    "main.js": "/MarcoVonkuDJ/static/js/main.b41dc88e.js",
+    "main.js": "/MarcoVonkuDJ/static/js/main.4fc83e84.js",
     "static/js/508.cc363a9d.chunk.js": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js",
     "static/js/592.cef72a76.chunk.js": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js",
     "static/media/Ej3000.mp3": "/MarcoVonkuDJ/static/media/Ej3000.50be0ee92a9c7bcf1f49.mp3",
@@ -9,6 +9,9 @@
     "static/media/mmm.jpg": "/MarcoVonkuDJ/static/media/mmm.f8891a37823edd198ed2.jpg",
     "static/media/img10.jpeg": "/MarcoVonkuDJ/static/media/img10.0f884109fcf228e04bca.jpeg",
     "static/media/MuroUno.jpg": "/MarcoVonkuDJ/static/media/MuroUno.08cb96be0af4060c631b.jpg",
+    "static/media/img16.jpg": "/MarcoVonkuDJ/static/media/img16.8155d8b72d8208509985.jpg",
+    "static/media/img17.jpg": "/MarcoVonkuDJ/static/media/img17.674476974e35915c18a1.jpg",
+    "static/media/img19.jpeg": "/MarcoVonkuDJ/static/media/img19.e78639b469f659d21fbf.jpeg",
     "static/media/guti1.jpeg": "/MarcoVonkuDJ/static/media/guti1.37caad60ccfb5d6fb8e7.jpeg",
     "static/media/img11.jpeg": "/MarcoVonkuDJ/static/media/img11.ffda6022b7911a5cbb98.jpeg",
     "static/media/foto1.jpg": "/MarcoVonkuDJ/static/media/foto1.8ba7d34f185836d92c4a.jpg",
@@ -20,10 +23,13 @@
     "static/media/img7.jpeg": "/MarcoVonkuDJ/static/media/img7.43bf979085096446bff5.jpeg",
     "static/media/marco_parqueUno.jpg": "/MarcoVonkuDJ/static/media/marco_parqueUno.9e1a443c7edfa2dc121a.jpg",
     "static/media/img6.jpeg": "/MarcoVonkuDJ/static/media/img6.48395151c6e3b7838c66.jpeg",
+    "static/media/img18.jpeg": "/MarcoVonkuDJ/static/media/img18.6b0a136e0757f0d11f79.jpeg",
     "static/media/img4.jpeg": "/MarcoVonkuDJ/static/media/img4.4847bea7ec916c775157.jpeg",
     "static/media/img5.jpeg": "/MarcoVonkuDJ/static/media/img5.203bbf731a6afcb61945.jpeg",
     "static/media/img12.jpeg": "/MarcoVonkuDJ/static/media/img12.5bc387d621045e9e0f20.jpeg",
+    "static/media/img21.jpeg": "/MarcoVonkuDJ/static/media/img21.a60e35f967f5b65a1cde.jpeg",
     "static/media/imgfiesta2.jpg": "/MarcoVonkuDJ/static/media/imgfiesta2.7e85c8b6e799cec23a7c.jpg",
+    "static/media/img20.jpeg": "/MarcoVonkuDJ/static/media/img20.73e52ad837abf36fa089.jpeg",
     "static/media/img9.jpeg": "/MarcoVonkuDJ/static/media/img9.a725536ae45ea902ca39.jpeg",
     "static/media/img13.jpeg": "/MarcoVonkuDJ/static/media/img13.a825ab9c267c8a4d8969.jpeg",
     "static/media/birrahouse.jpg": "/MarcoVonkuDJ/static/media/birrahouse.3a309ef959e0952f6ea4.jpg",
@@ -32,6 +38,7 @@
     "static/media/DomingoGuti.jpeg": "/MarcoVonkuDJ/static/media/DomingoGuti.1e89ffa30f8b943cfd3b.jpeg",
     "static/media/malamania.jpg": "/MarcoVonkuDJ/static/media/malamania.6a5f91cdf580f28e2c28.jpg",
     "static/media/elfaro.jpg": "/MarcoVonkuDJ/static/media/elfaro.691f52aa27e92f2587f5.jpg",
+    "static/media/img15.jpeg": "/MarcoVonkuDJ/static/media/img15.cde725e7e4fc56e2c05f.jpeg",
     "static/media/kahlo.jpg": "/MarcoVonkuDJ/static/media/kahlo.a93416f39ffb9a1871bc.jpg",
     "static/media/LogoMarco6.png": "/MarcoVonkuDJ/static/media/LogoMarco6.8a29aaad1da42463fabd.png",
     "static/media/pecados.jpg": "/MarcoVonkuDJ/static/media/pecados.c3d2bf2ae9a56ae27a6a.jpg",
@@ -44,12 +51,12 @@
     "static/media/LogoMarco4.jpg": "/MarcoVonkuDJ/static/media/LogoMarco4.0208de42678ca53b23fd.jpg",
     "index.html": "/MarcoVonkuDJ/index.html",
     "main.ad988af7.css.map": "/MarcoVonkuDJ/static/css/main.ad988af7.css.map",
-    "main.b41dc88e.js.map": "/MarcoVonkuDJ/static/js/main.b41dc88e.js.map",
+    "main.4fc83e84.js.map": "/MarcoVonkuDJ/static/js/main.4fc83e84.js.map",
     "508.cc363a9d.chunk.js.map": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js.map",
     "592.cef72a76.chunk.js.map": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad988af7.css",
-    "static/js/main.b41dc88e.js"
+    "static/js/main.4fc83e84.js"
   ]
 }
