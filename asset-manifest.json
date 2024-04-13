@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MarcoVonkuDJ/static/css/main.ad988af7.css",
-    "main.js": "/MarcoVonkuDJ/static/js/main.4fc83e84.js",
+    "main.js": "/MarcoVonkuDJ/static/js/main.35145356.js",
     "static/js/508.cc363a9d.chunk.js": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js",
     "static/js/592.cef72a76.chunk.js": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js",
     "static/media/Ej3000.mp3": "/MarcoVonkuDJ/static/media/Ej3000.50be0ee92a9c7bcf1f49.mp3",
@@ -51,12 +51,12 @@
     "static/media/LogoMarco4.jpg": "/MarcoVonkuDJ/static/media/LogoMarco4.0208de42678ca53b23fd.jpg",
     "index.html": "/MarcoVonkuDJ/index.html",
     "main.ad988af7.css.map": "/MarcoVonkuDJ/static/css/main.ad988af7.css.map",
-    "main.4fc83e84.js.map": "/MarcoVonkuDJ/static/js/main.4fc83e84.js.map",
+    "main.35145356.js.map": "/MarcoVonkuDJ/static/js/main.35145356.js.map",
     "508.cc363a9d.chunk.js.map": "/MarcoVonkuDJ/static/js/508.cc363a9d.chunk.js.map",
     "592.cef72a76.chunk.js.map": "/MarcoVonkuDJ/static/js/592.cef72a76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad988af7.css",
-    "static/js/main.4fc83e84.js"
+    "static/js/main.35145356.js"
   ]
 }
