@@ -14,6 +14,13 @@ import img10 from '../img-fondo/img10.jpeg'
 import img11 from '../img-fondo/img11.jpeg'
 import img12 from '../img-fondo/img12.jpeg'
 import img13 from '../img-fondo/img13.jpeg'
+import img15 from '../img-fondo/img15.jpeg'
+import img16 from '../img-fondo/img16.jpg'
+import img17 from '../img-fondo/img17.jpg'
+import img18 from '../img-fondo/img18.jpeg'
+import img19 from '../img-fondo/img19.jpeg'
+import img20 from '../img-fondo/img20.jpeg'
+import img21 from '../img-fondo/img21.jpeg'
 import mmm from "../img-fondo/mmm.jpg";
 
 
@@ -24,6 +31,34 @@ const Fotos = ()=>{
 
             <div className="contentCorpDos">
                 <img src={DomingoGuti} alt="" />
+            </div>
+
+            <div className="contentCorpDos">
+                <img src={img15} alt="" />
+            </div>
+
+            <div className="contentCorpDos">
+                <img src={img16} alt="" />
+            </div>
+
+            <div className="contentCorpDos">
+                <img src={img17} alt="" />
+            </div>
+
+            <div className="contentCorpDos">
+                <img src={img18} alt="" />
+            </div>
+
+            <div className="contentCorpDos">
+                <img src={img19} alt="" />
+            </div>
+
+            <div className="contentCorpDos">
+                <img src={img20} alt="" />
+            </div>
+
+            <div className="contentCorpDos">
+                <img src={img21} alt="" />
             </div>
 
             <div className="contentCorpDos">
